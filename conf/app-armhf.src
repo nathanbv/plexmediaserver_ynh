@@ -1,5 +1,5 @@
-SOURCE_URL=https://downloads.plex.tv/plex-media-server-new/1.32.5.7516-8f4248874/debian/plexmediaserver_1.32.5.7516-8f4248874_armhf.deb
-SOURCE_SUM=fb12057783a56a4eefa801df0474b16e6942c8f01e22d78682c40775301ef5c87dc8b18ecf4ec822cc419e10f762c300288b7bdaaa4534d4c518e344127df5a7
+SOURCE_URL=https://downloads.plex.tv/plex-media-server-new/1.32.7.7621-871adbd44/debian/plexmediaserver_1.32.7.7621-871adbd44_armhf.deb
+SOURCE_SUM=42231ad91efea14842f01928240d2ac114436f7d77e498ea6c884ddf96300d641085b334502a30779cd4478df3fe0d5620129f58c0188113e8a12ab37c50a97f
 SOURCE_SUM_PRG=sha512sum
 SOURCE_FORMAT=deb
 SOURCE_IN_SUBDIR=false
